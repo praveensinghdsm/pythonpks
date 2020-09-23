@@ -1,3 +1,4 @@
+# Prog-1 - Day -1 
 a = 10  # Dynamic Typed
 print(type(a))
 print("Value of a : ",a)
